@@ -1,0 +1,16 @@
+click==7.1.2
+conda==4.3.16
+Flask==1.1.2
+mysql-connector-python==8.0.20
+pymongo==3.10.1
+pyOpenSSL==19.0.0
+virtualenv==20.0.21
+Werkzeug==1.0.1
+itsdangerous==1.1.0
+pymongo==3.10.1
+Werkzeug==0.16.1
+Flask-PyMongo==2.3.0
+Jinja2==2.10.1
+MarkupSafe==1.1.0
+WTForms==2.2.1
+Flask-WTF==0.14.2
