@@ -2,36 +2,42 @@
         "recipe": "Black Bean Spinach Enchiladas",
         "description": "Easy vegan black bean enchiladas with spinach and sweet corn. Smothered in the most amazing homemade enchilada sauce!",
         "cooktime": "9 mins",
-        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2012/03/vegenchilada-1.webp"
+        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2012/03/vegenchilada-1.webp",
+        "url": "Black-bean-spinach-enchiladas"
     },
     {
         "recipe": "Brocolli Cashew stir-fry",
         "description": "Easy, lightened-up Broccoli Cashew Stir-Fry makes a satisfying 30-minute weeknight meal! A healthy oil-free stir-fry with fresh flavors of garlic & ginger.",
         "cooktime": "15 mins",
-        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2019/03/cashew-stir-fry-650-wm.webp"
+        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2019/03/cashew-stir-fry-650-wm.webp",
+        "url": "Brocolli-Cashew-stir-fry"
     },
     {
         "recipe": "Southwest Black Bean Soup",
         "description": "Easy Vegan Southwest Soup with black beans, sweet corn, and delicious fiesta flavors. Only 10 simple ingredients and a satisfying vegan weeknight meal!",
         "cooktime": "9 mins",
-        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2019/11/southwest-black-bean-soup-bowl-650-wm.jpg"
+        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2019/11/southwest-black-bean-soup-bowl-650-wm.jpg",
+        "url": "Southwest-Black-Bean-Soup"
     },
     {
         "recipe": "Fresh Thai Quinoa Salad with Peanut Sauce",
         "description": "Colorful, crunchy Thai Quinoa Salad tossed in the most amazing homemade garlic-ginger peanut sauce! (Vegan, gluten-free, and oil-free)",
         "cooktime": "30 mins",
-        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2018/04/thai-quinoa-salad-bowl-620-wm.webp"
+        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2018/04/thai-quinoa-salad-bowl-620-wm.webp",
+        "url": "Fresh-Thai-Quinoa-Salad"
     },
     {
         "recipe": "Teriyaki baked Tofu",
         "description": "Fluffy, golden cubes of baked tofu generously tossed in an easy, homemade Teriyaki sauce that’s sweet, savory, and so delicious! One of our very favorite tofu recipes!",
         "cooktime": "30 mins",
-        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2018/08/teriyaki-tofu-bowl-650-wm.webp"
+        "image_source": "https://www.thegardengrazer.com/wp-content/uploads/2018/08/teriyaki-tofu-bowl-650-wm.webp",
+        "url": "Teriyaki-baked-Tofu"
     },
     {
         "recipe": "",
         "description": "",
         "cooktime": "",
-        "image_source": ""
+        "image_source": "",
+        "url": ""
     }
 ]
