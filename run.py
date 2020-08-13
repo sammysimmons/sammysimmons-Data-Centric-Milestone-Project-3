@@ -16,6 +16,17 @@ def recipe():
         data = json.load(json_data)
     return render_template("recipe.html", recipe=data)
 
+@app.route("/recipe/<item_recipe>")
+def item_recipe(item_recipe):
+     recipe = {}   
+     with open("data/recipe.json", "r") as json.data:
+        data = json.load(json_data)
+        for obj in data:
+            if obj["url"] == item_recipe:
+                recipe = object
+    
+     return "<h3>" + item["recipe"] + "</h3>"
+
 @app.route("/login")
 def login():
     return render_template("login.html")
@@ -23,7 +34,6 @@ def login():
 @app.route("/register")
 def register():
     return render_template("register.html")
-
 
 
 if __name__ == '__main__':
