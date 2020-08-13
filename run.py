@@ -19,13 +19,13 @@ def recipe():
 @app.route("/recipe/<item_recipe>")
 def item_recipe(item_recipe):
      recipe = {}   
-     with open("data/recipe.json", "r") as json.data:
+     with open("data/recipe.json", "r") as json_data:
         data = json.load(json_data)
         for obj in data:
             if obj["url"] == item_recipe:
                 recipe = object
     
-     return "<h3>" + item["recipe"] + "</h3>"
+     return render_template("recipe.html",type=recipe)
 
 @app.route("/login")
 def login():
